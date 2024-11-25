@@ -255,7 +255,7 @@ var simplemaps_countrymap_mapdata={
       name: "Đà Nẵng"
     },
     VNHN: {
-      name: "Ha Noi"
+      name: "Hà Nội"
     },
     VNHP: {
       name: "Hải Phòng"
