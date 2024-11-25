@@ -75,7 +75,7 @@ var simplemaps_countrymap_mapdata={
   },
   state_specific: {
     VN01: {
-      name: "Lai Chau"
+      name: "Lai Châu"
     },
     VN02: {
       name: "Lào Cai"
