@@ -117,7 +117,7 @@ var simplemaps_countrymap_mapdata={
       name: "Nghệ An"
     },
     VN23: {
-      name: "Ha Tinh"
+      name: "Hà Tĩnh"
     },
     VN24: {
       name: "Quảng Bình"
